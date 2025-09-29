@@ -24,11 +24,11 @@
 
 ---
 
-## 📖 Estic aprofundint en...  
-- Noves tècniques i eines de ciberseguretat  
-- Administració avançada de Linux i Windows  
-- Fonaments de xarxes i protocols  
-- Gestió integral de sistemes informàtics  
+## 📚 Actualment aprenent  
+- Estratègies i tècniques de ciberseguretat  
+- Funcions avançades de Linux i Windows  
+- Fonaments de xarxes  
+- Administració i gestió de sistemes informàtics  
 
 ---
 
