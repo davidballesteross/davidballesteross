@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hola! Sóc David Ballesteros  
 
-<!--
-**davidballesteross/davidballesteross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiant del **Cicle Formatiu de Grau Mitjà en Sistemes Microinformàtics i Xarxes (SMX)**  
+💻 Apassionat per la **gestió de sistemes** i el treball amb diferents **sistemes operatius**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Experiència  
+- 🐧 Ús i administració bàsica de **Linux** (Ubuntu Server i distribucions basades en Debian).  
+- 💻 Coneixements en **Windows**, tant a nivell d’usuari com en configuració i gestió inicial.  
+- 🐍 Experiència inicial amb **Python**, creant petits programes i practicant la lògica de programació.  
+- 🌐 Configuració bàsica de **xarxes i màquines virtuals**.  
+
+---
+
+## 🔧 Tecnologies i eines  
+- **Sistemes Operatius**: Linux · Windows · macOS  
+- **Llenguatges**: Python (nivell bàsic)  
+- **Altres**: Virtualització · Xarxes · Administració de sistemes  
+
+---
+
+## 📚 Actualment aprenent  
+- Funcions avançades de Linux i Windows  
+- Fonaments de xarxes  
+- Administració i gestió de sistemes operatius  
+
+---
+
+## 🌱 Objectiu  
+Continuar aprenent cada dia i aplicar la meva experiència en tecnologia per **resoldre problemes** i **crear solucions innovadores**.  
