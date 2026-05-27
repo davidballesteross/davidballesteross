@@ -35,3 +35,7 @@
 ## 🎯 Objectiu personal  
 Fer créixer les meves habilitats per convertir-me en un **tècnic de confiança** capaç de resoldre problemes i aportar solucions útils i creatives.  
 
+Links Projectes
+
+[projecte 1](projecte2/readme.md)
+
