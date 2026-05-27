@@ -35,8 +35,9 @@
 ## 🎯 Objectiu personal  
 Fer créixer les meves habilitats per convertir-me en un **tècnic de confiança** capaç de resoldre problemes i aportar solucions útils i creatives.  
 
-Links Projectes
+## Links Projectes
 
--[projecte 2](https://github.com/davidballesteross/projecte2)
--[projecte 2](https://github.com/davidballesteross/projecte3)
+- [projecte 2](https://github.com/davidballesteross/projecte2)
+
+- [projecte 2](https://github.com/davidballesteross/projecte3)
 
