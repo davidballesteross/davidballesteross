@@ -37,5 +37,5 @@ Fer créixer les meves habilitats per convertir-me en un **tècnic de confiança
 
 Links Projectes
 
-[projecte 1](projecte2/readme.md)
+[projecte 1](projecte2/README.md)
 
