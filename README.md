@@ -39,8 +39,8 @@ Fer créixer les meves habilitats per convertir-me en un **tècnic de confiança
 
 ## Links Projectes
 
-- [projecte 2](https://github.com/davidballesteross/projectes-escola-pia)
-- 
+- [Projectes Escola Pia](https://github.com/davidballesteross/projectes-escola-pia)
+  
 - [Web](https://github.com/davidballesteross/web_corporativa)
 
 - [Projecte Personal](https://github.com/davidballesteross/bet365_bot.)
