@@ -1,6 +1,6 @@
 # 👋 Hola! Sóc en David Ballesteros  
 
-🎓 Estudiant del **CFGM de Sistemes Microinformàtics i Xarxes (SMX)**.  
+🎓 Estudiant del **CFGS en Administració de Sistemas Informátics en Xarxa (ASIX)**.  
 🔧 M’interessa especialment el **muntatge i manteniment de PC** i el camp de la **ciberseguretat**.  
 💡 Em considero curiós, constant i amb ganes de seguir aprenent sempre coses noves del món tecnològic.  
 
